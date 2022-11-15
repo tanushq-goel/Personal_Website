@@ -1,0 +1,115 @@
+body{
+  text-align: center;
+  font-family: 'Merriweather' , serif;
+  font-size: 30px;
+}
+
+.TopContainer{
+  background-color: #E4F9F5;
+  height: 743px;
+}
+h1
+{
+  width: 20%;
+  margin: auto;
+  position: relative;
+  font-family: 'Sacramento' , cursive;
+  top: 45px;
+  color: #66BFBF;
+}
+h2
+{
+  position: relative;
+  font-family: 'Montserrat' , sans-serif;
+  color: #66BFBF;
+}
+h3
+{
+  position: relative;
+  font-family: 'Montserrat' , sans-serif;
+  color: #66BFBF;
+}
+.myimg
+{
+
+  position: relative;
+  top: 20px;
+}
+hr
+{
+  background-color: white;
+  border-color: grey;
+  border-style: none;
+  border-top-style : dotted;
+  border-top-width: 10px;
+  height: 0;
+  width: 5%;
+  margin-top: 50px;
+}
+p{
+  position: relative;
+  margin:5px;
+  font-size: 20px;
+}
+.bottom-cloud{
+  position: relative;
+  bottom: 250px;
+}
+.top-cloud{
+  position: relative;
+  top: 45px;
+  left: 310px;
+}
+.mountain{
+  position: relative;
+  top: 115px;
+  right: 30px;
+  bottom: 150px;
+}
+.swimming
+{
+  position: relative;
+  height: 250px;
+  width: 250px;
+}
+.chess
+{
+  position: relative;
+  height: 250px;
+  width: 250px;
+}
+.heading
+{
+  position: relative;
+  top: 65px;
+}
+.heading2
+{
+  position: relative;
+  top: 20px;
+}
+.btn
+{
+  position: relative;
+  color: white;
+  font-size: 16px;
+  background-color:#66BFBF;
+  text-decoration: none;
+  padding: 8px;
+  bottom: 5px;
+  font-size: 15px;
+  border-radius: 25px;
+}
+.footer-link
+{
+  text-decoration: none;
+}
+.bottom-container
+{
+  margin-top: 50px;
+  padding-top: 20px;
+  background-color: #66BFBF;
+  position: relative;
+  text-align: center;
+  height: 80px;
+}
